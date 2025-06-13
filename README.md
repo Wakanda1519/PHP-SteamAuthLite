@@ -1,6 +1,6 @@
 # PHP SteamAuthLite
 
-![PHP](https://img.shields.io/badge/PHP-Plugin-blue?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/PHP-Library-blue?style=flat-square&logo=php)
 
 Добро пожаловать, этот проект реализует авторизацию пользователя через Steam, используя протокол OpenID. После успешной аутентификации пользователю присваивается уникальный идентификатор Steam, который сохраняется в сеансе, а затем отображается на главной странице
 
